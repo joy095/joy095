@@ -15,7 +15,7 @@
 - ✨ Full Stack Development
 
 ### - Hobbies : 
-- ✨ Watching 
+- ✨ Watching Movies
 - ✨ Gaming
 
 </br>
@@ -46,7 +46,7 @@
 # Contact Me :
 
 <p>
- </br>
+</br>
 
 
 <img hight="320" width="450" align="right" alt="GIF" src="./assets/gif/3.gif">
