@@ -6,7 +6,7 @@
 
 # About ME 💬 :
 
-### -I'm 21 years old Full Stack Web Devloper Learning & Artificial Intelligence Enthusiast from India.
+### -I'm 21 years old Full Stack Web Devloper from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/gif/2.gif">
 
