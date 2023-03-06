@@ -64,7 +64,7 @@ If you want to reach out to me about anything, be it some doubt or talk just pin
 <a href="https://www.linkedin.com/in/joy-karmakar-cooch-behar">
 <img src="./assets/icon/linkedin.svg" height="50px" alt="linkdeen" />
 </a>
-<a href="[https://multipage-protfolio.vercel.app/](https://joy-protfolio.vercel.app/)">
+<a href="https://joy-protfolio.vercel.app/">
 <img src="./assets/icon/portfolio-64.png" height="50px" alt="protfolio" />
 <a href="mailto:sourva55@gmail.com">
 <img src="./assets/icon/gmail.svg" height="50px" alt="gmail" />
