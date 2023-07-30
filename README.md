@@ -66,6 +66,6 @@ If you want to reach out to me about anything, be it some doubt or talk just pin
 </a>
 <a href="https://joy-protfolio.vercel.app/">
 <img src="./assets/icon/portfolio-64.png" height="50px" alt="protfolio" />
-<a href="mailto:sourva55@gmail.com">
+<a href="mailto:joykarmakar987654321.com">
 <img src="./assets/icon/gmail.svg" height="50px" alt="gmail" />
 </a>
