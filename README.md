@@ -9,12 +9,13 @@
 
 # About ME 💬 :
 
-### -I'm 21 years old Full Stack Web Devloper from India.
+### -I'm 21 years old Full Stack Web Developer from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/gif/2.gif">
 
 
 ### - Learning :
+- ✨ Frontend Developer
 - ✨ Full Stack Development
 
 ### - Hobbies : 
@@ -29,17 +30,17 @@
 # Languages & Framework 👨‍💻 🛠:
 
 <p align="center">
-<img src="./assets/icon/javascript.svg" alt="japascript" height="50px" />
+<img src="./assets/icon/javascript.svg" alt="javascript" height="50px" />
 <img src="./assets/icon/node-js.svg" alt="nodejs" height="50px" />
-<img src="./assets/icon/typescript.svg" alt="typascript" height="50px" />
+<img src="./assets/icon/typescript.svg" alt="typescript" height="50px" />
 <img src="./assets/icon/tailwindcss.svg" alt="tailwindcss" height="50px" />
 <img src="./assets/icon/bootstrap.svg" alt="bootstrap" height="50px" />
 <br />
 <img src="./assets/icon/react.svg" alt="react" height="50px" />
-<img src="./assets/icon/html-5.svg" alt="html" height="50px" />
-<img src="./assets/icon/css3.svg" alt="css" height="50px" />
+<img src="./assets/icon/html-5.svg" alt="HTML" height="50px" />
+<img src="./assets/icon/css3.svg" alt="CSS" height="50px" />
 <br />
-<img src="./assets/icon/mongodb.svg" height="50px" alt="mongodb" height="50px" />
+<img src="./assets/icon/mongodb.svg" height="50px" alt="MongoDB" height="50px" />
 </p>
 
 </br>
@@ -55,7 +56,7 @@
 <img hight="320" width="450" align="right" alt="GIF" src="./assets/gif/3.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or talk just ping me 😉.
+If you want to contact me about anything, be it some doubt or talk ping me 😉.
 
 
 <a href="https://twitter.com/JoyKarmakar9871">
