@@ -13,9 +13,10 @@
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/gif/2.gif">
 
+### - Current position
+- ✨ Frontend Developer
 
 ### - Learning :
-- ✨ Frontend Developer
 - ✨ Full Stack Development
 
 ### - Hobbies : 
