@@ -54,7 +54,7 @@
 </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="./assets/gif/3.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="./assets/gif/contact-me.gif">
 
 
 If you want to contact me about anything, be it some doubt or talk ping me 😉.
