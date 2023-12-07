@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### -I'm 21 years old Full Stack Web Developer from India.
+### -I'm 22 years old Full Stack Web Developer from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="./assets/gif/2.gif">
 
