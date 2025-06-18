@@ -66,7 +66,7 @@ If you want to contact me about anything, be it some doubt or talk ping me 😉.
 <a href="https://www.linkedin.com/in/joy-karmakar-cooch-behar">
 <img src="./assets/icon/linkedin.svg" height="50px" alt="linkdeen" />
 </a>
-<a href="https://joykarmakar-cv.vercel.app">
+<a href="https://joykarmakar.vercel.app">
 <img src="./assets/icon/portfolio-64.png" height="50px" alt="protfolio" />
 <a href="mailto:joykarmakar987654321.com">
 <img src="./assets/icon/gmail.svg" height="50px" alt="gmail" />
