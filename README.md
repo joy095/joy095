@@ -62,8 +62,8 @@
 
 - 🔒 **Secure Auth System (Gin + Argon2 + Redis)** — Scalable login with OTPs, refresh tokens, and email templates.
 - 📦 **Image Processing API (FastAPI + R2 + WebP)** — AI-powered image optimization and moderation pipeline.
-- 💬 **Chat Backend (Go + gobwas/ws + Kafka)** — Real-time messaging using WebSockets and Kafka consumers.
-- 📋 **Waitlist Platform (SvelteKit + Tailwind)** — Engaging marketing and onboarding UX with GSAP animations.
+- 💬 **Chat Backend (Elixir)** — Real-time messaging using Elixir and phoenix framework
+- 📋 **Waitlist Platform (SvelteKit + Tailwind + Email)** — Engaging marketing and onboarding UX with GSAP animations.
 
 <br />
 
