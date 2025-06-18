@@ -81,12 +81,9 @@
   <a href="mailto:joykarmakar852@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://joykarmakar.vercel.app" target="_blank">
-    <span style="border-radius: 5px; overflow: hidden; height: 22px; width: 65px; background-color:#CCCCCC; display: inline-block;">
-    <img style="height: 15px; padding-left: 3px; padding-top: 4px; border-radius: 4px;" src="https://joykarmakar.vercel.app/logo.svg
-    " />
-  </span>
-  </a>
+    <a href="https://joykarmakar.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
 </div>
 
 ---
