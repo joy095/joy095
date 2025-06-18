@@ -1,4 +1,11 @@
-# Joy 👋
+<!-- Replace `joykarmakar987654321` with your actual GitHub username -->
+<h1 align="center">Hi 👋, I'm Joy Karmakar</h1>
+<h3 align="center">Full-Stack Developer | Backend Specialist | DevOps Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=580&lines=Go+%2F+Node.js+Backend+Engineer;PostgreSQL+%7C+Redis+%7C+Kafka+%7C+R2;FastAPI+%7C+Gin+%7C+WebSockets;React+%7C+SvelteKit+%7C+Expo+%7C+Tailwindcss" alt="Typing SVG" />
+</p>
+
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/1.gif">
@@ -9,65 +16,79 @@
 
 # About ME 💬 :
 
-### -I'm 22 years old Full Stack Web Developer from India.
+### -I'm 23 years old Full Stack Web Developer from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="./assets/gif/2.gif">
+- 🔭 I’m currently building full-stack systems with **Go (Gin)**, **Node.js**, **PostgreSQL**, **Redis**, and **Kafka**
+- 🧪 Exploring distributed systems, event-driven architecture, and AI-integrated applications
+- 🌍 Learning about DevOps with **Docker**, **Cloudflare Workers**, and **Temporal**
+- 🧰 Focused on **clean architecture**, **high scalability**, and **developer-friendly UX**
 
-### - Current position
-- ✨ Frontend Developer
-
-### - Learning :
-- ✨ Full Stack Development
-
-### - Hobbies : 
-- ✨ Watching Movies
-- ✨ Gaming
-
-</br>
-</br>
-</br>
-
-
-# Languages & Framework 👨‍💻 🛠:
-
-<p align="center">
-<img src="./assets/icon/javascript.svg" alt="javascript" height="50px" />
-<img src="./assets/icon/node-js.svg" alt="nodejs" height="50px" />
-<img src="./assets/icon/typescript.svg" alt="typescript" height="50px" />
-<img src="./assets/icon/tailwindcss.svg" alt="tailwindcss" height="50px" />
-<img src="./assets/icon/bootstrap.svg" alt="bootstrap" height="50px" />
 <br />
-<img src="./assets/icon/react.svg" alt="react" height="50px" />
-<img src="./assets/icon/html-5.svg" alt="HTML" height="50px" />
-<img src="./assets/icon/css3.svg" alt="CSS" height="50px" />
+
+<img hight="400" width="500" alt="GIF" src="./assets/gif/2.gif">
+
 <br />
-<img src="./assets/icon/mongodb.svg" height="50px" alt="MongoDB" height="50px" />
-</p>
 
-</br>
-</br>
-</br>
+# 🛠️ Tech Stack:
 
-# Contact Me :
+#### Backend:
 
-<p>
-</br>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript&logoColor=#F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+#### Frontend:
 
-<img hight="320" width="450" align="right" alt="GIF" src="./assets/gif/contact-me.gif">
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-CCCCCC?style=flat&logo=svelte)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
+#### Tools & Platforms:
 
-If you want to contact me about anything, be it some doubt or talk ping me 😉.
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FCFCFC?style=flat&logo=github-actions)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F7F7F7?style=flat&logo=cloudflare)
+![R2](https://img.shields.io/badge/R2-000000?style=flat&logo=cloudflare)
 
+### 🚀 Projects I’m Proud Of
 
-<a href="https://twitter.com/JoyKarmakar9871">
-<img src="./assets/icon/twitter.svg" height="50px" alt="twitter" />
-</a>
-<a href="https://www.linkedin.com/in/joy-karmakar-cooch-behar">
-<img src="./assets/icon/linkedin.svg" height="50px" alt="linkdeen" />
-</a>
-<a href="https://joykarmakar.vercel.app">
-<img src="./assets/icon/portfolio-64.png" height="50px" alt="protfolio" />
-<a href="mailto:joykarmakar987654321.com">
-<img src="./assets/icon/gmail.svg" height="50px" alt="gmail" />
-</a>
+- 🔒 **Secure Auth System (Gin + Argon2 + Redis)** — Scalable login with OTPs, refresh tokens, and email templates.
+- 📦 **Image Processing API (FastAPI + R2 + WebP)** — AI-powered image optimization and moderation pipeline.
+- 💬 **Chat Backend (Go + gobwas/ws + Kafka)** — Real-time messaging using WebSockets and Kafka consumers.
+- 📋 **Waitlist Platform (SvelteKit + Tailwind)** — Engaging marketing and onboarding UX with GSAP animations.
+
+<br />
+
+# 📫 Contact with Me :
+
+<img hight="320" width="450" alt="GIF" src="./assets/gif/contact-me.gif">
+
+<br />
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/joy-karmakar-cooch-behar" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+
+  </a>
+  <a href="mailto:joykarmakar852@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://joykarmakar.vercel.app" target="_blank">
+    <span style="border-radius: 5px; overflow: hidden; height: 22px; width: 65px; background-color:#CCCCCC; display: inline-block;">
+    <img style="height: 15px; padding-left: 3px; padding-top: 4px; border-radius: 4px;" src="https://joykarmakar.vercel.app/logo.svg
+    " />
+  </span>
+  </a>
+</div>
+
+---
+
+### ⚡ Fun Fact
+
+> I enjoy building systems that feel _snappy, secure, and smart_ — code is my craft, and scaling is my challenge!
