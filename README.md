@@ -25,7 +25,9 @@
 
 <br />
 
-<img hight="400" width="500" alt="GIF" src="./assets/gif/2.gif">
+<div align="center">
+    <img hight="300" width="700" alt="GIF" align="center" src="./assets/gif/2.gif">
+</div>
 
 <br />
 
@@ -66,9 +68,9 @@
 <br />
 
 # 📫 Contact with Me :
-
-<img hight="320" width="450" alt="GIF" src="./assets/gif/contact-me.gif">
-
+<div align="center">
+    <img hight="320" width="450"  alt="GIF" src="./assets/gif/contact-me.gif">
+</div>
 <br />
 
 <div style="display: flex; align-items: center; gap: 10px;">
