@@ -69,7 +69,7 @@
 
 # 📫 Contact with Me :
 <div align="center">
-    <img hight="320" width="450"  alt="GIF" src="./assets/gif/contact-me.gif">
+    <img hight="300" width="700"  alt="GIF" src="./assets/gif/contact-me.gif">
 </div>
 <br />
 
