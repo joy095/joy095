@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Backend Specialist | DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=580&lines=Go+%2F+Node.js+Backend+Engineer;PostgreSQL+%7C+Redis+%7C+Kafka+%7C+R2;FastAPI+%7C+Gin+%7C+WebSockets;React+%7C+SvelteKit+%7C+Expo+%7C+Tailwindcss" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=580&lines=Go+%2F+Node.js+Backend+Engineer;PostgreSQL+%7C+Redis+%7C+%7C+R2;FastAPI+%7C+Gin+%7C+WebSockets;React+%7C+Next+%7C+SvelteKit+%7C+Expo+%7C+Tailwindcss" alt="Typing SVG" />
 </p>
 
 
@@ -18,7 +18,7 @@
 
 ### -I'm 23 years old Full Stack Web Developer from India.
 
-- 🔭 I’m currently building full-stack systems with **Go (Gin)**, **Node.js**, **PostgreSQL**, **Redis**, and **Kafka**
+- 🔭 I’m currently building full-stack systems with **Go (Gin)**, **Node.js**, **PostgreSQL**, and **Redis**
 - 🧪 Exploring distributed systems, event-driven architecture, and AI-integrated applications
 - 🌍 Learning about DevOps with **Docker**, **Cloudflare Workers**, and **Temporal**
 - 🧰 Focused on **clean architecture**, **high scalability**, and **developer-friendly UX**
@@ -41,7 +41,6 @@
 ![Javascript](https://img.shields.io/badge/Javascript-323330?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 #### Frontend:
@@ -50,7 +49,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-CCCCCC?style=flat&logo=svelte)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
 #### Tools & Platforms:
 
@@ -62,7 +60,6 @@
 
 - 🔒 **Secure Auth System (Gin + Argon2 + Redis)** — Scalable login with OTPs, refresh tokens, and email templates.
 - 📦 **Image Processing API (FastAPI + R2 + WebP)** — AI-powered image optimization and moderation pipeline.
-- 💬 **Chat Backend (Elixir + Phoenix + PostgreSQL)** — Real-time messaging using Elixir and phoenix framework
 - 📋 **Waitlist Platform (SvelteKit + Tailwind + Email)** — Engaging marketing and onboarding UX with GSAP animations.
 
 <br />
