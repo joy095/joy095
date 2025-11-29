@@ -14,9 +14,30 @@
 <br />
 <br />
 
+<script>
+  // Your birthdate: April 25, 2003 (months in JS are 0-indexed, so April = 3)
+  const birthdate = new Date(2001, 11, 20); // Note: Month is 3 (not 4)
+  
+  // Get today's date
+  const today = new Date();
+
+  // Calculate age
+  let age = today.getFullYear() - birthdate.getFullYear();
+  const monthDiff = today.getMonth() - birthdate.getMonth();
+  const dayDiff = today.getDate() - birthdate.getDate();
+
+  // Adjust if birthday hasn't occurred yet this year
+  if (monthDiff < 0 || (monthDiff === 0 && dayDiff < 0)) {
+    age--;
+  }
+
+  // Display age
+  document.getElementById('age').textContent = age;
+</script>
+
 # About ME 💬 :
 
-### -I'm 23 years old Full Stack Web Developer from India.
+### -I'm <span id="age">...</span> 23 years old Full Stack Web Developer from India.
 
 - 🔭 I’m currently building full-stack systems with **Go (Gin)**, **Node.js**, **PostgreSQL**, and **Redis**
 - 🧪 Exploring distributed systems, event-driven architecture, and AI-integrated applications
